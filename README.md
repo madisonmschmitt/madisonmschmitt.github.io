@@ -13,3 +13,4 @@ Below is an infographic I made using Canva showing Lehigh University's Fall of 2
 ![Enrollment](https://github.com/madisonmschmitt/madisonmschmitt.github.io/blob/master/Is%20Lehigh%20Geographically%20Diverse_Undergraduate%20Enrollment%202017.jpg?raw=true)
 
 # Philadelphia Eagles' Road to Super Bowl LII
+The Eagles have been underdogs from the start of the season, and when their starting quarterback endured an injury halfway through the season, their dreams of finally winning a Super Bowl seemed almost impossible. To all of our surprise, and to my extreme happiness, they made it! Below is an infographic I made to depict their monstrous victory over the Minnesota Vikings. 
