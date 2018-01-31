@@ -15,3 +15,7 @@ Below is an infographic I made using Canva showing Lehigh University's Fall of 2
 # Philadelphia Eagles' Road to Super Bowl LII
 The Eagles have been underdogs from the start of the season, and when their starting quarterback endured an injury halfway through the season, their dreams of finally winning a Super Bowl seemed almost impossible. To all of our surprise, and to my extreme happiness, they made it! Below is an infographic I made to depict their monstrous victory over the Minnesota Vikings. 
 ![Playoff Game](https://github.com/madisonmschmitt/madisonmschmitt.github.io/blob/master/ROAD%20TO%20THE%20SUPERBOWL%20(4).jpg?raw=true)
+
+# Rio 2016
+The Rio 2016 Summer Games thus took its place in the long history of Olympics.
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1d8ehFnET-4kXbqxt-qlYl8eImN3JuRpapXJSAC8itaI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
