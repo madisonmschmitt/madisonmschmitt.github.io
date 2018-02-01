@@ -20,6 +20,4 @@ The Eagles have been underdogs from the start of the season, and when their star
 The Rio 2016 Summer Games thus took its place in the long history of Olympics.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1d8ehFnET-4kXbqxt-qlYl8eImN3JuRpapXJSAC8itaI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-# The Battle of Gettysburg
-The Battle of Gettysburg, fought from July 1 to July 3, 1863, is considered the most important engagement of the American Civil War. Though the great Confederate general would go on to win other victories, the Battle of Gettysburg irrevocably turned the tide of the Civil War in the Union’s favor.
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1DYHaG4GadC0zVkkkhQN49-8WrLa5RQWcunLoWKFP3j4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
