@@ -25,3 +25,4 @@ It’s probably impossible to be a 13-year-old pop star with a TV show without b
 # Lehigh University Undergraduate Enrollment 2016
 ![Undergrad Enrollment](https://github.com/madisonmschmitt/madisonmschmitt.github.io/blob/master/Undergraduate_Enrollment_Lehigh_University__________%25_of_Enrollment_chartbuilder.png?raw=true)
 # Lehigh Undergrad Enrollment Trends 2008-2017
+![Enrollment Trends](https://github.com/madisonmschmitt/madisonmschmitt.github.io/blob/master/Ungrad_Enrollment_2008-2017_Arts_&_Sciences_Business__Engineering_chartbuilder.png?raw=true)
