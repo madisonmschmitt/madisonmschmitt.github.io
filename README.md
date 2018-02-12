@@ -22,3 +22,5 @@ The Rio 2016 Summer Games thus took its place in the long history of Olympics.
 # A Timeline of Miley Cyrus' Mental Breakdown
 It’s probably impossible to be a 13-year-old pop star with a TV show without being just a little bit crazy. Miley had her father, Billy Ray, push her into show business, and soon she was sucked into the Disney Channel machine. What started as America's favorite country sweetheart turned into something drastically shocking, almost disgusting. Here's a timeline to break it all down.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1DYHaG4GadC0zVkkkhQN49-8WrLa5RQWcunLoWKFP3j4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+# Lehigh University Undergraduate Enrollment 2016
+![Undergrad Enrollment](https://github.com/madisonmschmitt/madisonmschmitt.github.io/blob/master/Undergraduate_Enrollment_Lehigh_University__________%25_of_Enrollment_chartbuilder.png?raw=true)
