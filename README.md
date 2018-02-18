@@ -33,3 +33,6 @@ The Masters, the U.S. Open and the PGA Championship are just a few of the major 
 # Performing Arts Locations
 A variety of performing arts locations known for different facets of the arts. Innovative arts, ensemble theater, classic folk music and more.
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1Boor62INU_k5p8YJ1Zn9_IWjPuCLIk07ZsFII9PQ&amp;viz=MAP&amp;h=false&amp;lat=41.968549402444104&amp;lng=-72.76510467822264&amp;t=1&amp;z=6&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
+# The 5 Best Ice Cream Parlors in the United States
+This map ranks the five best ice cream shops in the United States, with locations ranging from the West Coast to the East Coast. Each point offers a picture of the ice cream, a description of the store's offerings and a location for where to find a scoop. 
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1fJn_6lSY00rNzaUX3GayvGL4JCMHRemTHUWQQQ8I&amp;viz=MAP&amp;h=false&amp;lat=45.47536679770883&amp;lng=-78.93274027499989&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
