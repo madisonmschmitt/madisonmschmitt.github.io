@@ -5,7 +5,7 @@
 My name is Madison Schmitt and I am a sophomore at Lehigh University studying journalism and marketing. I'm originally from Long Valley, New Jersey where I grew up with two older brothers and a yellow lab named Cloee.
 
 Here is a comic strip that tells you a little bit about me!
-https://github.com/madisonmschmitt/madisonmschmitt.github.io/blob/master/Screen%20Shot%202018-03-05%20at%203.39.19%20PM.jpg
+![Comic Strip]https://github.com/madisonmschmitt/madisonmschmitt.github.io/blob/master/Screen%20Shot%202018-03-05%20at%203.39.19%20PM.jpg?raw=true
 
 Here is my [linkedIn Page](https://www.linkedin.com/feed/).
 ![Profile Image](https://github.com/madisonmschmitt/madisonmschmitt.github.io/blob/master/IMG_5550.JPG?raw=true)
