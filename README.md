@@ -2,8 +2,9 @@
 # About me
 
 
-My name is Madison Schmitt and I am a sophomore at Lehigh University, studying Journalism and Marketing. I'm originally from Long Valley, New Jersey where I grew up with two older brothers and a yellow lab. I love being active with a specific passion for playing soccer and lacrosse. 
+My name is Madison Schmitt and I am a sophomore at Lehigh University studying journalism and marketing. I'm originally from Long Valley, New Jersey where I grew up with two older brothers and a yellow lab named Cloee.
 
+Here is a comic strip that tells you a little bit about me!
 
 Here is my [linkedIn Page](https://www.linkedin.com/feed/).
 ![Profile Image](https://github.com/madisonmschmitt/madisonmschmitt.github.io/blob/master/IMG_5550.JPG?raw=true)
